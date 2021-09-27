@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background: #383636;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam_div , #snap_div
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+#pre1 ,#pre2 
+{
+  color: white;
+}
+.emo_name
+{
+  font-size: 40px;
+}
+.emo
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+label{
+  font-size: 14px;
+  padding: 6px;
+  border-radius: 10px;
+  
+}
